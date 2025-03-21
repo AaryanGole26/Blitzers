@@ -1,0 +1,5 @@
+gTTS
+SpeechRecognition
+python-dotenv
+langchain-ollama
+pyaudio
